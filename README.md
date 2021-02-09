@@ -56,3 +56,5 @@ Will output you the channel state with grouped balances
  remoteETH: 0.014999680000000000 ETH
 -- BALANCES
 ```
+
+Commands will be improved / new commands be added over time. Just a starting point for basic operations.
