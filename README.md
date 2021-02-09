@@ -1,10 +1,11 @@
 # connext-cli
 
-A helper tool for easy operations with your Connext server node. Download the binary from release, adapt the config and get started.
+A helper tool for easy operations with your active Connext server node, which uses some of the endpoints from the [Connext Node API](https://docs.connext.network/reference/nodeAPI/).
+Download the binary from release, adapt the config and get started.
 
 ### Get started
 1) Log on your VM where the active Connext server node is running
-2) New folder ``mkdir connext`` && go in ``cd connext``
+2) New folder ``mkdir connext-`` && go in ``cd connext``
 3) Download binary from release ``wget https://github.com/cwntr/connext-cli/releases/download/v1.0.0/cncli``
 4) Make executable ``chmod +x cncli``
 5) Adapt config: currently only supports an absolute fixed file path at `"cfg.json"` on same directory as the `cncli`
