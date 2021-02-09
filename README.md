@@ -1,6 +1,6 @@
 # connext-cli
 
-A helper tool that allows you easy operations for your Connext server node. Download the binary from release, adapt the config and get started.
+A helper tool for easy operations with your Connext server node. Download the binary from release, adapt the config and get started.
 
 ### Get started
 1) Log on your VM where the active Connext server node is running
@@ -19,7 +19,7 @@ A helper tool that allows you easy operations for your Connext server node. Down
   "graceNonceDiff": 5
  }
  ```
-_graceNonceDiff_ : only used for deleting active transfers, the channel nonce difference what you consider "old" transfers are safe to be deleted.
+_graceNonceDiff_ : only used for deleting active transfers (pending / stuck), the channel nonce difference what you consider "old" transfers are safe to be deleted.
 
 ### Commands
 ```
