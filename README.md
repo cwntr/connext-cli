@@ -1,4 +1,5 @@
 # connext-cli
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
 A helper tool for easy operations with your active Connext server node, which uses some of the endpoints from the [Connext Node API](https://docs.connext.network/reference/nodeAPI/).
 Download the binary from release, adapt the config and get started.
