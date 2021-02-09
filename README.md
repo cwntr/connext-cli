@@ -6,7 +6,7 @@ Download the binary from release, adapt the config and get started.
 
 ### Get started
 1) Log on your VM where the active Connext server node is running
-2) New folder ``mkdir connext-`` && go in ``cd connext``
+2) New folder ``mkdir connext`` and go in new directory``cd connext``
 3) Download binary from release ``wget https://github.com/cwntr/connext-cli/releases/download/v1.0.0/cncli``
 4) Make executable ``chmod +x cncli``
 5) Adapt config: currently only supports an absolute fixed file path at `"cfg.json"` on same directory as the `cncli`
